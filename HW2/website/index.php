@@ -15,4 +15,4 @@
                   echo "<li>$product</li>";
                 }
             ?>
-        </ul/
+        </ul>
